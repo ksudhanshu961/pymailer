@@ -2,6 +2,7 @@
 This Scripts Automates the mailing process and Increases your Security
 
 **Attention Less Secure must be enabled in your Gmail account** 
+    
     > For more info Search on Google.
 
 **You must have Python to install and run this tool.**
@@ -15,6 +16,7 @@ This Scripts Automates the mailing process and Increases your Security
 
 
 **For Linux & Mac**
+
 2. cd pymailer
 
 3. sudo chmod +x mailer.py
@@ -24,6 +26,7 @@ This Scripts Automates the mailing process and Increases your Security
 5. sudo python mailer.py
 
 **For Windows**
+
 2. Open command prompt
 
 3. locate to directory where you cloned or downloaded the pymailer using **cd** command
@@ -32,7 +35,8 @@ This Scripts Automates the mailing process and Increases your Security
 
 **Further Process**
 
-Write Required Info.
+Write Required Info's
+
 **Don't worry Passwords are not been seen to anyone**
 
 **Done !** **Mail Sent !!!** 
