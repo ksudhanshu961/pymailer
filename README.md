@@ -1,4 +1,6 @@
 # pymailer
+# Python 3
+
 This Scripts Automates the mailing process and Increases your Security
 
 **Attention Less Secure must be enabled in your Gmail account** 
