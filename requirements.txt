@@ -1,0 +1,3 @@
+secure-smtplib
+pyfiglet
+httplib
