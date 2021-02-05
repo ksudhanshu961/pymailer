@@ -14,7 +14,7 @@ This Scripts Automates the mailing process and Increases your Security
 1. gitclone or download this tool.
 
     **To gitclone**
-    > sudo git clone https://github.com/zWR417H/pymailer.git
+    > sudo git clone https://github.com/ksudhanshu961/pymailer.git
 
 
 **For Linux & Mac**
